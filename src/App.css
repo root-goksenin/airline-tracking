@@ -1,0 +1,6 @@
+.grid{
+  display: grid;
+  grid-template-columns: 10vw 80vw 5vw;
+  grid-template-rows: 10vh 10vh 10vh 65vh;
+  margin-left: 10px;
+}

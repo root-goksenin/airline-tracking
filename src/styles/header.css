@@ -1,0 +1,14 @@
+
+.header-image{
+    height: 100%;
+    width: 15%;
+    grid-row: 1;
+    grid-column: 2;
+    justify-self: right;
+}
+.title{
+    float:left;
+    grid-row: 1;
+    grid-column: 1/3;
+    justify-self: center;
+}
